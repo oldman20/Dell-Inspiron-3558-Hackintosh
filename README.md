@@ -28,5 +28,6 @@ USBMap:
 
 #THE FACT I REALIZED: Clover CAN USE NVRAM FROM OC LEFT, BUT OC CAN’T. SO WHEN SWITCH BOOT TO OC FROM Clover, need resetNVRAM WITH THIS CHANGE IN CONFIG.PLIST:
 [applesecureboot.html](https://dortania.github.io/OpenCore-Post-Install/universal/security/applesecureboot.html#special-notes-with-securebootmodel)
+
 REMEMBER This will disable macOS's APFS snapshots too
 ![NVRAM OC FORCE WHEN BOOT CLOVER](https://user-images.githubusercontent.com/39668756/188077118-338536db-3fff-444e-a436-2da028fab9ce.png)
