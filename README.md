@@ -16,3 +16,7 @@ dmesg | grep -i input
 
 gfxutil output:
 ![Screen Shot 2022-09-02 at 13 46 13](https://user-images.githubusercontent.com/39668756/188075577-68c62315-991f-4e4f-9adf-84b469c8f16e.png)
+
+USBMap:
+![Screen Shot 2022-07-25 at 09 50 33](https://user-images.githubusercontent.com/39668756/188075843-e473a61f-a012-400e-812f-fce459ab7f79.png)
+![Screen Shot 2022-07-25 at 09 59 53](https://user-images.githubusercontent.com/39668756/188075849-7d5e98cc-9804-47a6-945b-9dddcc32e0a5.png)
