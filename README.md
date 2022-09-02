@@ -2,6 +2,7 @@
 Track-log installation macOS Monterey on Dell Inspiron 3558 i5 - 5200U/ nVIDIA GeForce 920M
 
 Details:
+BIOS Version: A21
 Dell Inspiron 3558 (UEFI) - Intel Core i5 (5th Gen) 5200U /2.20GHz - 8GB RAM DDR3L - Intel(R) HD Graphics 5500/ nVIDIA GeForce 920M - 1366x768 - Realtek ALC255/ALC3234 @ Intel Wildcat Point-LP PCH - High Definition Audio Controller [F0]/ layout-id=20 - Intel(R) Dual Band Wireless-AC 3160 - Dell Touchpad /Synaptics I2C- Samsung SSD 860 EVO MZ-76E250BW 250GB (GPT)
 
 PCI Shell output:
