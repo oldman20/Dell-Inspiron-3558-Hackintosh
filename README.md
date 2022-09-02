@@ -13,3 +13,6 @@ lsusb output:
              
 dmesg | grep -i input
 ![Screen Shot 2022-09-02 at 13 39 01](https://user-images.githubusercontent.com/39668756/188074365-41d3e164-aabd-45cb-ad18-22d5d6e06e2a.png)
+
+gfxutil output:
+![Screen Shot 2022-09-02 at 13 46 13](https://user-images.githubusercontent.com/39668756/188075577-68c62315-991f-4e4f-9adf-84b469c8f16e.png)
