@@ -7,6 +7,9 @@ Dell Inspiron 3558 (UEFI) - Intel Core i5 (5th Gen) 5200U /2.20GHz - 8GB RAM DDR
 PCI Shell output:
 ![Screen Shot 2022-09-02 at 13 40 38](https://user-images.githubusercontent.com/39668756/188074661-c4aa71bf-909f-41b9-8406-22ffb3105aaa.png)
 
+lsusb output:
+![Screen Shot 2022-09-02 at 13 42 59](https://user-images.githubusercontent.com/39668756/188075104-54f351e4-147b-45b5-9c46-4073e5a07d89.png)
+
              
 dmesg | grep -i input
 ![Screen Shot 2022-09-02 at 13 39 01](https://user-images.githubusercontent.com/39668756/188074365-41d3e164-aabd-45cb-ad18-22d5d6e06e2a.png)
