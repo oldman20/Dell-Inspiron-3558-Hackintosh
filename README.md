@@ -31,3 +31,22 @@ USBMap:
 
 REMEMBER This will disable macOS's APFS snapshots too
 ![NVRAM OC FORCE WHEN BOOT CLOVER](https://user-images.githubusercontent.com/39668756/188077118-338536db-3fff-444e-a436-2da028fab9ce.png)
+
+Working:
+full QE/CI with HD5500 graphics OOB
+DP + HDMI output OOB
+full audio, including jack microphone input and headset output (with AppleALC kext & layout-id 20)
+full CPU power management, including Turbo boost to 2.9GHz (with CPU-specific generated SSDT)
+system sleeps Ok through lid closure, power button, Fn-F1, Apple menu->Sleep and energy savings settings with hibernation mode set to 0 (sleep to RAM) and /var/vm/sleepimage file deleted. Wakes Ok through lid opening and power button
+wireless & bluetooth with any compatible card/USB dongle
+battery management and monitoring (with ACPIBatteryManager kext)
+SD card reader (with DSDT patch for compatibility with Apple's default Broadcom device 14e4:16bc)
+integrated webcam OOB
+keyboard backlight control OOB (for backlit models)
+USB3.0 ports
+ 
+Not Working:
+N/A
+ 
+Not tested:
+HDMI audio (with AppleIntelBDWGraphicsFB kext patch)
