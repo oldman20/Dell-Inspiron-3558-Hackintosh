@@ -1,0 +1,10 @@
+{
+    "en_US": {
+        "dialogTitle" : "Combo Jack Notification",
+        "dialogMsg" : "What did you just plug in? (Press ESC to cancel)",
+        "btnHeadphone" : "Headphones",
+        "btnLinein" : "Line-In",
+        "btnHeadset" : "Headset",
+        "btnCancel" : "Cancel"
+    }
+}
