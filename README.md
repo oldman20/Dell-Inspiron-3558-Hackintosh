@@ -8,6 +8,7 @@ BIOS Version: A21 | CFG lock, VarStoreInfo (VarOffset/VarName): 0x37
 Dell Inspiron 3558 (UEFI) - Intel Core i5 (5th Gen) 5200U /2.20GHz - 8GB RAM DDR3L - Intel(R) HD Graphics 5500/ nVIDIA GeForce 920M - 1366x768 - Realtek ALC255/ALC3234 @ Intel Wildcat Point-LP PCH - High Definition Audio Controller [F0]/ layout-id=20 - Intel(R) Dual Band Wireless-AC 3160 - Dell Touchpad /Synaptics I2C- Samsung SSD 860 EVO MZ-76E250BW 250GB (GPT)
 
 #Analyzed:
+another way: sudo lshw (in linux)
 PCI Shell output:
 ![Screen Shot 2022-09-02 at 13 40 38](https://user-images.githubusercontent.com/39668756/188074661-c4aa71bf-909f-41b9-8406-22ffb3105aaa.png)
 
