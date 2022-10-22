@@ -9,6 +9,7 @@ Dell Inspiron 3558 (UEFI) - Intel Core i5 (5th Gen) 5200U /2.20GHz - 8GB RAM DDR
 
 #Analyzed:
 another way: sudo lshw (in linux)
+
 PCI Shell output:
 ![Screen Shot 2022-09-02 at 13 40 38](https://user-images.githubusercontent.com/39668756/188074661-c4aa71bf-909f-41b9-8406-22ffb3105aaa.png)
 
