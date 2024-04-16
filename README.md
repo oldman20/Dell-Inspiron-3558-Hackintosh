@@ -1,6 +1,6 @@
 ### MISTAKE:
-Edit in config.plist:
->UEFI> Drivers> 6: Arguments <>
+Edit in config.plist: > UEFI> Drivers> 6
+>Arguments <>
 >
 > Comment: BTRFS drivers from rEFInd 0.13.3.1
 
