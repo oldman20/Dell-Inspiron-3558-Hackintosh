@@ -1,3 +1,8 @@
+### MISTAKE:
+Edit in config.plist:
+>UEFI> Drivers> 6: Arguments <>
+> Comment: BTRFS drivers from rEFInd 0.13.3.1
+
 # Dell-Inspiron-3558-Hackintosh
 Track-log installation macOS Monterey on Dell Inspiron 3558 i5 - 5200U/ nVIDIA GeForce 920M
 ![1](https://user-images.githubusercontent.com/39668756/193019877-8c1fcfe6-cac1-460e-a497-ff6460e68f99.png)
